@@ -1,0 +1,16 @@
+PODS:
+  - Leaves (0.1.0)
+
+DEPENDENCIES:
+  - Leaves (from `../`)
+
+EXTERNAL SOURCES:
+  Leaves:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Leaves: bd4157eb7787fe11989f6f330a70db9287eaf8d9
+
+PODFILE CHECKSUM: 09bb0a6ceab549bdbc1a07ec2e7ecfb5b90368e9
+
+COCOAPODS: 1.5.3

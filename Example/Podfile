@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Leaves_Example' do
+  pod 'Leaves', :path => '../'
+
+  target 'Leaves_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
